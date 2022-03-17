@@ -1,1 +1,1 @@
-### Hi there, I'm <a hef="" target="_blank">Guillem Galindo</a> 👋
+### Hi there, I'm <a hef="https://galind.dev" target="_blank">Guillem Galindo</a> 👋
